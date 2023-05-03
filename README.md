@@ -1,18 +1,17 @@
-# To compile the project, please run :
+# Mineweeper
+(school project) Recoding the minesweeper game in C. It is a console game.
+
+## Installation :
 ```shell
 make
 ```
 
-# To generate the documentation, please run :
+## Documentation :
 ```shell
 make doc
 ```
-or
-```shell
-doxygen Doxyfile
-```
 
-# To run the project, please run :
+## Run :
 ```shell
-./bin/main
+make run
 ```
