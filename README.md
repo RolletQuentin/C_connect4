@@ -1,5 +1,5 @@
-# Mineweeper
-(school project) Recoding the minesweeper game in C. It is a console game.
+# Connect4
+(school project) Recoding the connect4 game in C. It is a console game.
 
 ## Installation :
 ```shell
